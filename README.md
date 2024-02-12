@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skullcrus&label=Profile%20views&color=0e75b6&style=flat" alt="skullcrus" /> </p>
 
-- 🔭 I’m currently working on **MedLr**
+- 🔭 I’m currently working on **Ticc**
 
-- 🌱 I’m currently explorng **Flutter**
+- 🌱 I’m currently explorng **Flutter,Solidity and RustLang**
 
-- 💬 Ask me about **Flutter,Firebase**
+- 💬 Ask me about **Flutter,Firebase,Node.js,Express.js**
 
 - 📫 How to reach me **rohanvarshneylko@gmail.com**
 
