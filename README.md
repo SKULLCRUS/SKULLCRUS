@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skullcrus&label=Profile%20views&color=0e75b6&style=flat" alt="skullcrus" /> </p>
 
-- 🔭 I’m currently working on **Ticc**
+- 🔭 I’m currently working on **Thapar Institute Counselling Cell(Ticc)** mobile application
 
 - 🌱 I’m currently explorng **Flutter,Solidity and RustLang**
 
